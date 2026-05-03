@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcf56b18-2ba0-4a27-868f-180d3617ede9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PongWithReinforcementLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="bcf56b18-2ba0-4a27-868f-180d3617ede9" name="Changes" comment="Initial: Used pong code from GeeksForGeeks and added in Q-Learning to create an Ai with a good strategy but a small fail rate.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ZackPot"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ZackPot/PongWithReinforcementLearning.git",
+    "accountId": "31058ec6-3f67-4339-89ae-949f2659f7e8"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -66,6 +73,15 @@
       <option name="presentableId" value="Default" />
       <updated>1777756141251</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial: Used pong code from GeeksForGeeks and added in Q-Learning to create an Ai with a good strategy but a small fail rate.">
+      <option name="closed" value="true" />
+      <created>1777805531937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777805531937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial: Used pong code from GeeksForGeeks and added in Q-Learning to create an Ai with a good strategy but a small fail rate." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial: Used pong code from GeeksForGeeks and added in Q-Learning to create an Ai with a good strategy but a small fail rate." />
   </component>
 </project>
